@@ -1,4 +1,5 @@
-// 
+// 투 포인터 
+// 배열, 리스트같은 선형 자료 구조에서 두개의 포인터(인덱스) 를 사용하여 해결 
 var reverseVowels = function(s) {
     const vowels = new Set(['a','e','i','o','u','A','E','I','O','U']);
 
