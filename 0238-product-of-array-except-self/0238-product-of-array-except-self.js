@@ -3,6 +3,7 @@
  * @return {number[]}
  */
 var productExceptSelf = function(nums) {
+  // first 
   // const result = [];
   //   for (var i=0; i<nums.length; i++) {
   //     let sum = nums.reduce((a,b,idx) => { 
@@ -12,19 +13,20 @@ var productExceptSelf = function(nums) {
   //   }
   //   return result;
 
+  // 왼쪽 오른쪽 순회  
     const n = nums.length;
     const result = new Array(n).fill(1);
     
-    let prefix = 1;
+    let left = 1;
     for (let i=0; i< n; i++) {
-      result[i] = prefix;
-      prefix *= nums[i];
+      result[i] = left;
+      left *= nums[i];
     }
     
-    let suffix = 1;
+    let right = 1;
     for (let i = n - 1; i >= 0; i--) {
-      result[i] *= suffix;
-      suffix *= nums[i];
+      result[i] *= right;
+      right *= nums[i];
     }
     
     return result;
