@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/dlxoho/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/dlxoho/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/dlxoho/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dlxoho/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dlxoho/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Hash Table
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dlxoho/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Counting
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dlxoho/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
