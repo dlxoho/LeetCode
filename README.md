@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dlxoho/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/dlxoho/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dlxoho/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dlxoho/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dlxoho/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
