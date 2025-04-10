@@ -3,9 +3,8 @@ var MyHashMap = function() {
     this.map = new Array(1000).fill(null).map(() => []);
 };
 
-// 해시 함수 추가
 MyHashMap.prototype.hash = function(key) {
-    return key % 1000; // 간단한 모듈로 해싱
+    return key % 1000;
 };
 
 MyHashMap.prototype.put = function(key, value) {
@@ -13,7 +12,7 @@ MyHashMap.prototype.put = function(key, value) {
     const bucket = this.map[hashKey];
     
     for (var i=0; i<bucket.length; i++) {
-        if (bucket[i][0] === key) { // 정확한 비교를 위해 === 사용
+        if (bucket[i][0] === key) {
             bucket[i][1] = value;
             return;
         }
