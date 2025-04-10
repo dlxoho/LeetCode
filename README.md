@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dlxoho/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/dlxoho/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/dlxoho/LeetCode/tree/master/0605-can-place-flowers) |
+| [0817-design-hashmap](https://github.com/dlxoho/LeetCode/tree/master/0817-design-hashmap) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dlxoho/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dlxoho/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0817-design-hashmap](https://github.com/dlxoho/LeetCode/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/dlxoho/LeetCode/tree/master/0817-design-hashmap) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/dlxoho/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dlxoho/LeetCode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/dlxoho/LeetCode/tree/master/0817-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/dlxoho/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
